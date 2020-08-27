@@ -1,5 +1,5 @@
 
-GNU nano 5.2        terkey.py
+GNU nano 5.2        tombolsembunyi.py
 import os
 from time import sleep
 
